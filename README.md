@@ -30,3 +30,16 @@ This project is an implementation of a credit card fraud detection system using 
 
    ```shell
    https://github.com/SurajSanap/Credit-Card-Fraud-Detection.git
+
+## Dependencies
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+  
+##License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+##Acknowledgments
+The dataset used in this project is provided by `creditcard`, and is available here.
