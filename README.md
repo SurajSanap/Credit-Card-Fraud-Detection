@@ -29,4 +29,4 @@ This project is an implementation of a credit card fraud detection system using 
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
+[Credit_Card_Froud_Detection.ipynb](https://github.com/SurajSanap/Credit-Card-Fraud-Detection/blob/3b4e5d29a4eb2dccf9b84a928704881dcbb424bb/Credit_Card_Froud_Detection.ipynb)https://github.com/SurajSanap/Credit-Card-Fraud-Detection/blob/3b4e5d29a4eb2dccf9b84a928704881dcbb424bb/Credit_Card_Froud_Detection.ipynb
